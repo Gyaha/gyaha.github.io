@@ -1,2 +1,0 @@
-# gyaha.github.io
-Webpage
